@@ -7,17 +7,6 @@
 
 ---
 
-## 📌 Table of Contents
-- [About](#-about)
-- [Features](#-features)
-- [Data Structures](#-data-structures)
-- [Algorithms](#-algorithms)
-- [Usage](#-usage)
-- [Contribution](#-contribution)
-- [License](#-license)
-
----
-
 ## 🚀 About
 This repository contains **well-commented C++ implementations** of essential Data Structures and Algorithms, created for learning and interview preparation. Each implementation follows:
 ✔ Modern C++17 standards  
